@@ -1,7 +1,7 @@
 export default function Operations() {
   return (
     <div>
-      <h1>Operaciones de Prueba</h1>
+      <h1 className="main-title">Operaciones de Prueba</h1>
       
       <h2 className="mt-4">Insert</h2>
       <div className="mb-4">
