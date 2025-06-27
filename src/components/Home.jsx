@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>RZDX Implementos Deportivos</h1>
+      <h1 className="main-title">RZDX Implementos Deportivos</h1>
       <h2>Sector: Deportivo</h2>
       <img
         src="https://res.cloudinary.com/dwp4z1yok/image/upload/v1751035853/nxv3p74zty7ij9uqay4r.png"
