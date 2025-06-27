@@ -1,7 +1,7 @@
 export default function ERModel() {
   return (
     <div>
-      <h1>Modelo Entidad-Relación</h1>
+      <h1 className="main-title">Modelo Entidad-Relación</h1>
       <div className="text-center">
         {/* Reemplaza con tu imagen o representación del modelo ER */}
         <img 
