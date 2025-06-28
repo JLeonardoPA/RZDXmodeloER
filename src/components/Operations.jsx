@@ -7,10 +7,11 @@ export default function Operations() {
       <div className="mb-4">
         {/* Puedes usar imágenes o enlaces */}
         <img 
-          src="https://via.placeholder.com/600x200?text=Captura+Insert" 
-          alt="Operación Insert" 
+          src="https://res.cloudinary.com/dwp4z1yok/image/upload/v1751079048/ptw8ffisjinnsgu8dsh5.png" 
+          alt="Insert Category" 
           className="img-fluid"
         />
+        <p>se agregan las categorias disponibles en la base de datos  </p>
       </div>
       
       <h2 className="mt-4">Update</h2>
