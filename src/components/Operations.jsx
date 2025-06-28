@@ -20,7 +20,7 @@ export default function Operations() {
           src="https://res.cloudinary.com/dwp4z1yok/image/upload/v1751079048/tdyxmnwvaoobbarrtlfx.png"
           alt="Select Category" 
         />
-        <p>se agregan las categorias disponibles en la base de datos y se realiza un <b>select</b> para verificar la informacion</p>
+        <p>Se agregan las categorias disponibles en la base de datos y se realiza un <b>select</b> para verificar la informacion</p>
       </div>
       <br><br>
       <h3 className="mt-4">Producto</h3>
@@ -36,7 +36,7 @@ export default function Operations() {
           src="https://res.cloudinary.com/dwp4z1yok/image/upload/v1751081506/yd2se4iqndyazspdz3ow.png"
           alt="Select Producto" 
         />
-        <p>se agregan en total 9 productos en la base de datos y se realiza un <b>select</b> para verificar la informacion</p>
+        <p>Se agregan en total 9 productos en la base de datos y se realiza un <b>select</b> para verificar la informacion</p>
       </div>
       <br><br>
       <h3 className="mt-4">Rol</h3>
